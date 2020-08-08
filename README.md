@@ -8,6 +8,8 @@ NOTE: I've intended to make this work only in Linux.
 This should work with any plugin manager, but I've tested it only on [Pathogen](https://github.com/tpope/vim-pathogen)
 ```
 cd .vim/bundle/ && git clone https://github.com/jeesusmies/discvim.git && cd discvim
+// CHANGE PATHS IN "makefile" and "discvim.vim"
+make
 mv discvim.vim ../autoload
 ```
 
