@@ -1,5 +1,5 @@
 # discvim (Discord Vim)
-Discord Rich Presence (rpc) for Vim, written in C.
+Discord Rich Presence (rpc) for Vim, written in C.  
 NOTE: I've intended to make this work only in Linux.
 
 **Can't add assets to discord applications, so the rpc is without pictures right now.**
