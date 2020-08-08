@@ -1,4 +1,4 @@
-# discvim
+# discvim (Discord Vim)
 Discord Rich Presence (rpc) for Vim, written in C.
 NOTE: I've intended to make this work only in Linux.
 
